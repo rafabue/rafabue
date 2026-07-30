@@ -32,7 +32,7 @@ Desenvolvedor backend com mais de 4 anos de experiência, focado em aplicações
 
 Atuo do levantamento de requisitos ao desenho, implementação, testes e entrega. Stack principal em **Java com Spring**, persistência em **PostgreSQL** e, quando o projeto pede visão full stack, interfaces em **Angular** e **Vue.js**.
 
-Hoje sou **Analista de Desenvolvimento PL na Velsis (Curitiba)**, com foco em pesquisa e desenvolvimento, evolução de aplicações e arquitetura de software.
+Hoje sou **Analista de Desenvolvimento PL** na Velsis (Curitiba), com foco em pesquisa e desenvolvimento, evolução de aplicações e arquitetura de software.
 
 > Entender o problema antes de escolher a tecnologia — e preferir decisões reversíveis a arquiteturas "definitivas" desenhadas cedo demais.
 
